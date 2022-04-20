@@ -44,5 +44,5 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ ..
-+ ..
++ Pengkodean digunakan untuk menggantikan karakter khusus HTML yang dicadangkan dengan nama entitas masing-masing.
++ Untuk menentukan format encoding decoding string kode
